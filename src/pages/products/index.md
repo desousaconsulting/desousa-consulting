@@ -1,29 +1,19 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Our Services
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  DeSousa Consulting is a group of Asset Management and Operations specialists with a wide spectrum of experience. We have a proven record of driving strategic vision and delivering business growth through outstanding fiscal management, operational excellence, and exceptional people management.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/fogon_menu.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We offer services to assist in all of the stages of creating a restaurant. From monitoring pre-development, development, and construction activities to providing input on issues affecting the investment and operational performance of assets.
+    - image: /img/fogon_menu_02.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We offer menu development services where we will work with our network of industry professionals to cater each step of the menu creation process to your needs. From ingredient sourcing to optimizing sales and profits we provide a full menu creation service.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
